@@ -10,4 +10,4 @@ services:
 notify:
   email:
     recipients:
-      - email@example.com
+      - email@example.comm
